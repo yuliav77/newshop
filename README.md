@@ -22,7 +22,7 @@ shop/								| Application folder
 	forms.py						| File where form classes for the project are defined
 	apps.py							| Application configuration
 	admin.py						| Admin module configuration
-shop/templates/shop				| Templates  folder
+shop/templates/shop					| Templates  folder
 	layout.html 					| Template for other pages (including head,header,footer sections)
 	index.html      				| Main page 
 	cart.html       				| Cart page
@@ -35,8 +35,8 @@ shop/static/shop/css				| CSS folder
 	styles.css     					| CSS stylesheet for desktop
 	media.css						| CSS stylesheet for mobile devices
 	script.js						| Script file 
-	/img/							| Folder for images
-	/slick/							| Slick Slider folder for initialisation of Top Sales Carousel on the main page
+	img/							| Folder for images
+	slick/							| Slick Slider folder for initialisation of Top Sales Carousel on the main page
 	
 	
 ## Usage
