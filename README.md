@@ -1,4 +1,4 @@
-# Final project - Capstone
+# Python project
 
 Marshmallow Online Shop
 
