@@ -1,6 +1,6 @@
-# Python project
+# Marshmallow Online Shop
 
-Marshmallow Online Shop
+Python project
 
 ## Description
 
